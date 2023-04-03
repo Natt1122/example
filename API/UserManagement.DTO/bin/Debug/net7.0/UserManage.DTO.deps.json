@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "UserManage.DTO/1.0.0": {
+        "runtime": {
+          "UserManage.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserManage.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

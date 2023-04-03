@@ -1,0 +1,17 @@
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\bin\Debug\net7.0\API.Utility.deps.json
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\bin\Debug\net7.0\API.Utility.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\bin\Debug\net7.0\API.Utility.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\bin\Debug\net7.0\API.DTO.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\bin\Debug\net7.0\API.Model.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\bin\Debug\net7.0\API.DTO.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\bin\Debug\net7.0\API.Model.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\obj\Debug\net7.0\API.Utility.csproj.AssemblyReference.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\obj\Debug\net7.0\API.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\obj\Debug\net7.0\API.Utility.AssemblyInfoInputs.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\obj\Debug\net7.0\API.Utility.AssemblyInfo.cs
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\obj\Debug\net7.0\API.Utility.csproj.CoreCompileInputs.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\obj\Debug\net7.0\API.Utility.csproj.CopyComplete
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\obj\Debug\net7.0\API.Utility.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\obj\Debug\net7.0\refint\API.Utility.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\obj\Debug\net7.0\API.Utility.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Utility\obj\Debug\net7.0\ref\API.Utility.dll

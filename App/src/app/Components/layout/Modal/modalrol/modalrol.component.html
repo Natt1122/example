@@ -1,0 +1,15 @@
+<h2 mat-dialog-title>New Role</h2>
+<div mat-dialog-content>
+  <form [formGroup]="formRol" class="form">
+    <mat-form-field class="full-width">
+      <input matInput formControlName="name" placeholder="name">
+    </mat-form-field>
+  </form>
+</div>
+<div mat-dialog-actions>
+  <button mat-raised-button mat-dialog-close color="warn">Close</button>
+  <button mat-raised-button mat-dialog-close color="primary"
+  [disabled]="formRol.invalid"
+  (click)="saveRol()">{{btnAction}}</button>
+</div>
+

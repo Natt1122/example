@@ -1,0 +1,14 @@
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\bin\Debug\net7.0\UserManage.Model.deps.json
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\bin\Debug\net7.0\UserManage.Model.runtimeconfig.json
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\bin\Debug\net7.0\UserManage.Model.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\bin\Debug\net7.0\UserManage.Model.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\UserManage.Model.csproj.AssemblyReference.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\UserManage.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\UserManage.Model.AssemblyInfoInputs.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\UserManage.Model.AssemblyInfo.cs
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\UserManage.Model.csproj.CoreCompileInputs.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\UserManage.Model.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\refint\UserManage.Model.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\UserManage.Model.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\UserManage.Model.genruntimeconfig.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\ref\UserManage.Model.dll

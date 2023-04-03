@@ -1,0 +1,14 @@
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\bin\Debug\net7.0\API.Model.deps.json
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\bin\Debug\net7.0\API.Model.runtimeconfig.json
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\bin\Debug\net7.0\API.Model.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\bin\Debug\net7.0\API.Model.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\API.Model.csproj.AssemblyReference.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\API.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\API.Model.AssemblyInfoInputs.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\API.Model.AssemblyInfo.cs
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\API.Model.csproj.CoreCompileInputs.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\API.Model.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\refint\API.Model.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\API.Model.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\API.Model.genruntimeconfig.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.Model\obj\Debug\net7.0\ref\API.Model.dll

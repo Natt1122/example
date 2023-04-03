@@ -1,0 +1,15 @@
+<h2 mat-dialog-title>Editar Roles del Menú</h2>
+<div mat-dialog-content>
+  <form [formGroup]="formMenu">
+    <mat-form-field>
+      <mat-label>Roles</mat-label>
+      <mat-select formControlName="selectedRoles" multiple>
+        <mat-option *ngFor="let rol of roles" [value]="rol">{{ rol.name }}</mat-option>
+      </mat-select>
+    </mat-form-field>
+  </form>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onClose()">Cancelar</button>
+  <button mat-raised-button color="primary" (click)="updateRoles()">Guardar</button>
+</div>

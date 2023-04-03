@@ -1,0 +1,15 @@
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\bin\Debug\net7.0\UserManage.DAL.deps.json
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\bin\Debug\net7.0\UserManage.DAL.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\bin\Debug\net7.0\UserManage.DAL.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\obj\Debug\net7.0\UserManage.DAL.csproj.AssemblyReference.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\obj\Debug\net7.0\UserManage.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\obj\Debug\net7.0\UserManage.DAL.AssemblyInfoInputs.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\obj\Debug\net7.0\UserManage.DAL.AssemblyInfo.cs
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\obj\Debug\net7.0\UserManage.DAL.csproj.CoreCompileInputs.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\obj\Debug\net7.0\UserManage.DAL.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\obj\Debug\net7.0\refint\UserManage.DAL.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\obj\Debug\net7.0\UserManage.DAL.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\obj\Debug\net7.0\ref\UserManage.DAL.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\bin\Debug\net7.0\UserManage.Model.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\bin\Debug\net7.0\UserManage.Model.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManage.DAL\obj\Debug\net7.0\UserManage.DAL.csproj.CopyComplete

@@ -1,0 +1,41 @@
+<mat-toolbar color="primary">
+    <mat-toolbar-row>
+        <h1>User Management  </h1>
+        <button mat-icon-button (click)="sidenav.toggle();">
+            <mat-icon>
+                menu
+            </mat-icon>
+        </button>
+    </mat-toolbar-row>
+
+
+</mat-toolbar>
+<mat-sidenav-container>
+    <mat-sidenav #sidenav opened="true" mode="side" style="width: 200px;">
+        <mat-nav-list>
+            <mat-list-item routerLink="/Pages/usermanage">
+                <mat-icon mat-list-icon>group</mat-icon>
+                <div mat-line>Usuarios</div>
+            </mat-list-item>
+
+            <mat-list-item routerLink="/Pages/Menus">
+                <mat-icon mat-list-icon>more_vert</mat-icon>
+                <div mat-line>Menu options</div>
+            </mat-list-item>
+
+            <mat-list-item routerLink="/Pages/Rol">
+                <mat-icon mat-list-icon>person</mat-icon>
+                <div mat-line>Rol
+                </div>
+            </mat-list-item>
+
+
+        </mat-nav-list>
+
+    </mat-sidenav>
+    <mat-sidenav-content>
+        <div style="height: 90vh;">
+        <router-outlet></router-outlet>
+        </div>
+    </mat-sidenav-content>
+</mat-sidenav-container>

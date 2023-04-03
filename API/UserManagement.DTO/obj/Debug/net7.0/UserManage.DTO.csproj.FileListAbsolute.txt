@@ -1,0 +1,12 @@
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.DTO\bin\Debug\net7.0\UserManage.DTO.deps.json
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.DTO\bin\Debug\net7.0\UserManage.DTO.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.DTO\bin\Debug\net7.0\UserManage.DTO.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.DTO\obj\Debug\net7.0\UserManage.DTO.csproj.AssemblyReference.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.DTO\obj\Debug\net7.0\UserManage.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.DTO\obj\Debug\net7.0\UserManage.DTO.AssemblyInfoInputs.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.DTO\obj\Debug\net7.0\UserManage.DTO.AssemblyInfo.cs
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.DTO\obj\Debug\net7.0\UserManage.DTO.csproj.CoreCompileInputs.cache
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.DTO\obj\Debug\net7.0\UserManage.DTO.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.DTO\obj\Debug\net7.0\refint\UserManage.DTO.dll
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.DTO\obj\Debug\net7.0\UserManage.DTO.pdb
+C:\Users\natalia.arboleda\OneDrive - SoftwareONE\Desktop\New folder (2)\API\UserManagement.DTO\obj\Debug\net7.0\ref\UserManage.DTO.dll
